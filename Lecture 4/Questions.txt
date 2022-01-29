@@ -1,0 +1,2 @@
+Sorry Joseph!Professor, can you please explain why insertion in LinkedList anywhere is considered constant time? Do we not consider the traversal? (This is regarding quiz)
+Professor, I have a doubt in AbstractSchoolAPI of assignment, in that, in methods addStudent and addTeacher shouldn't we be passing objects of type Person to those methods according to object oriented principles?
